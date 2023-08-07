@@ -15,7 +15,7 @@ img {
     display: block;
     height: 50px;
     width: 50px;
-    margin: auto 0;
+    margin: auto 0 auto 0;
 }
 ul {
     padding-left:40px;
